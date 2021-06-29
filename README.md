@@ -1,4 +1,4 @@
-# a-tuor-of-go
+# a-tour-of-go
 - En: https://tour.golang.org/list
 - Ja: https://go-tour-jp.appspot.com/list
 
