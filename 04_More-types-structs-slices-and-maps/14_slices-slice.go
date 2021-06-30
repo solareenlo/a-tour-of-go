@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	board := [][]string {
+	board := [][]string{
 		[]string{"_", "_", "_"},
 		[]string{"_", "_", "_"},
 		[]string{"_", "_", "_"},

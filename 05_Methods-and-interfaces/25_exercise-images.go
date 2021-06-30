@@ -6,7 +6,7 @@ import (
 	"image/color"
 )
 
-type Image struct {}
+type Image struct{}
 
 func (i Image) ColorModel() color.Model {
 	return color.RGBAModel

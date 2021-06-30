@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"golang.org/x/tour/tree"
 )
+
 func Walk(t *tree.Tree, ch chan int) {
 	WalkRecursive(t, ch)
 	close(ch)
