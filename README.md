@@ -5,6 +5,7 @@
 ## References
 ### Documentation
 - https://golang.org/doc/
+- [golang プログラミング言語仕様](https://hiwane.github.io/)
 
 ### module
 - [Go のモジュール管理【バージョン 1.16 改訂版】](https://zenn.dev/spiegel/articles/20210223-go-module-aware-mode)
